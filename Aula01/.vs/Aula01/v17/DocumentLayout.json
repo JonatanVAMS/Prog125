@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Programacao1\\Aula01\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA4852C-834A-425C-8963-1F2E75B309BA}|Aula01.csproj|d:\\materiais ciencia da computa\u00E7\u00E3o\\programacao1\\aula01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDA4852C-834A-425C-8963-1F2E75B309BA}|Aula01.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA4852C-834A-425C-8963-1F2E75B309BA}|Aula01.csproj|d:\\materiais ciencia da computa\u00E7\u00E3o\\programacao1\\aula01\\models\\variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA4852C-834A-425C-8963-1F2E75B309BA}|Aula01.csproj|solutionrelative:models\\variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA4852C-834A-425C-8963-1F2E75B309BA}|Aula01.csproj|d:\\materiais ciencia da computa\u00E7\u00E3o\\programacao1\\aula01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA4852C-834A-425C-8963-1F2E75B309BA}|Aula01.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +31,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Programacao1\\Aula01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Programacao1\\Aula01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T00:24:50.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Programacao1\\Aula01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Programacao1\\Aula01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:20:40.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Variaveis.cs",
+              "DocumentMoniker": "D:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Programacao1\\Aula01\\Models\\Variaveis.cs",
+              "RelativeDocumentMoniker": "Models\\Variaveis.cs",
+              "ToolTip": "D:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Programacao1\\Aula01\\Models\\Variaveis.cs",
+              "RelativeToolTip": "Models\\Variaveis.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T23:22:04.653Z",
+              "EditorCaption": ""
             }
           ]
         }
