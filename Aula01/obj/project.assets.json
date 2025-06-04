@@ -533,11 +533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Materiais Ciencia da Computação\\Programacao1\\Aula01\\Aula01.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\Source\\Repos\\Prog125\\Aula01\\Aula01.csproj",
       "projectName": "Aula01",
-      "projectPath": "D:\\Materiais Ciencia da Computação\\Programacao1\\Aula01\\Aula01.csproj",
+      "projectPath": "C:\\Users\\jonat\\Source\\Repos\\Prog125\\Aula01\\Aula01.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "D:\\Materiais Ciencia da Computação\\Programacao1\\Aula01\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\Source\\Repos\\Prog125\\Aula01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
