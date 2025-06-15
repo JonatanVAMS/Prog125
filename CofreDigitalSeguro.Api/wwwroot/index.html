@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cofre Digital Seguro - Login</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div id="login-view">
+            <h1>Cofre Digital Seguro</h1>
+            <h2>Login</h2>
+            <form id="login-form">
+                <input type="email" id="login-email" placeholder="Email" required>
+                <input type="password" id="login-password" placeholder="Senha Mestra" required>
+                <button type="submit">Entrar</button>
+            </form>
+            <p>Não tem uma conta? <a href="#" id="show-register">Registre-se</a></p>
+        </div>
+
+        <div id="register-view" class="hidden">
+            <h1>Cofre Digital Seguro</h1>
+            <h2>Registro</h2>
+            <form id="register-form">
+                <input type="email" id="register-email" placeholder="Email" required>
+                <input type="password" id="register-password" placeholder="Crie sua Senha Mestra" required>
+                <button type="submit">Registrar</button>
+            </form>
+            <p>Já tem uma conta? <a href="#" id="show-login">Faça Login</a></p>
+        </div>
+        <p id="error-message" class="error"></p>
+    </div>
+    <script src="auth.js"></script>
+</body>
+</html>

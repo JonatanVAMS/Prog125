@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seu Cofre</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Seu Cofre Digital</h1>
+            <button id="logout-btn">Sair</button>
+        </header>
+
+        <div class="vault-actions">
+            <h2>Adicionar Novo Item</h2>
+            <form id="add-item-form">
+                <input type="text" id="item-label" placeholder="Rótulo (ex: Email, Facebook)" required>
+                <input type="text" id="item-value" placeholder="Segredo (ex: senha123)" required>
+                <button type="submit">Adicionar ao Cofre</button>
+            </form>
+        </div>
+
+        <hr>
+
+        <div class="vault-items">
+            <h2>Itens Salvos</h2>
+            <p id="loading-message">Carregando seus segredos...</p>
+            <ul id="items-list">
+            </ul>
+        </div>
+        <p id="error-message" class="error"></p>
+    </div>
+
+    <script src="crypto.js"></script>
+    <script src="dashboard.js"></script>
+</body>
+</html>
